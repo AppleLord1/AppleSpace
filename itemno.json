@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "how_do_i_edit_with_friends:items/no"
+  }
+}
